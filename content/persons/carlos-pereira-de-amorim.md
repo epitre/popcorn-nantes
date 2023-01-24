@@ -82,15 +82,15 @@ Par ailleurs, j'ai fait quelques contributions au code source de Symfony.
 
 # Déploiement
 
-Je peux vous accompagner dans le déploiement de vos projets jusqu'en production, avec la mise en place de pipelines de CI/CD, ainsi que d'outils comme New Relic, Splunk ou Loggly pour monitorer vos applications.
+Je peux vous accompagner dans le déploiement de vos projets jusqu'en production, avec la mise en place de pipelines de CI/CD, ainsi que d'outils comme New Relic, Splunk ou Loggly pour monitorer vos applications.  
 J'ai l'habitude de mettre en place des outils comme PHPStan/Scrutinizer pour s'assurer de la qualité du code produit.
 
 # Management d'équipe
 
-J'ai managé des équipes de 4 à 20 personnes, aussi bien en présentiel, en télétravail, ainsi qu'en offshore.
+J'ai managé des équipes de 4 à 20 personnes, aussi bien en présentiel, en télétravail, ainsi qu'en offshore.  
 J'ai développé une expertise sur SCRUM et Kanban, ainsi qu'en gestion de projet et conduite du changement.  
-
-Je peux aussi bien prendre le poste de Product Owner/Manager si besoin.  
+  
+Je peux aussi prendre le poste de Product Owner/Manager si besoin.  
 
 # Définition du produit
 
